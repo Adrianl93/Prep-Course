@@ -1,0 +1,6 @@
+h1 {color: blue;}
+img {width: 400px;}
+#thirdDiv{height: 600px;width: 500px;background: darkgrey;padding: 100px;border: 15px solid black;align-content: center;}
+#spanId {font-size: 18px;margin: 50px;}
+.divClass{align-content: center;}
+* {background: url('https://www.rionegro.com.ar/wp-content/uploads/2019/05/sorrentinos-caseros-de-espinaca-y-ricota-jamon-y-muzarella-D_NQ_NP_786153-MLA28153058163_092018-F.jpg');text-align: center;alignment-baseline: center;}

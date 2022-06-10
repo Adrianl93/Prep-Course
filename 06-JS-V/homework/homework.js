@@ -33,14 +33,7 @@ function agregarMetodoPrototype(Constructor) {
   };
 }
 
-function agregarStringInvertida() {
-  // Agrega un método al prototype de String que devuelva la misma cadena de caracteres, pero invertida.
-  // El método debe llamarse "reverse"
-  // Ej: 'menem'.reverse() => menem
-  // 'toni'.reverse() => 'inot'
-  // Pista: Necesitarás usar "this" dentro de "reverse"
-
-  String.prototype.reverse= function(){
+function agregarStringInvertida() { {
     var stringReverse= '';
     for (var i = this.length-1; i >=0 ; i--) {
        stringReverse=stringReverse+this.charAt(i);
@@ -96,7 +89,6 @@ function agregarMetodo() {
 }
 }
   
-
 // No modificar nada debajo de esta línea
 // --------------------------------
 
