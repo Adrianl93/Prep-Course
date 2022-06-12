@@ -1,0 +1,140 @@
+*{
+background:#F5DBBD /*#F5D2A4*/
+}
+
+
+#firstDiv{
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: center ;
+margin-bottom: 100px;
+	}
+#secondDiv{
+		
+		display: flex;
+		flex-direction: row;
+	}
+#secondDivB{
+	display: flex;
+	flex-direction: column;
+	
+}
+
+#imgDiv{
+	padding-left: 50px;
+}
+
+
+#subtitleDiv{
+	
+	display: flex;
+	justify-content: center;
+}
+
+#descrDiv {
+padding-right: 100px;
+padding-left: 100px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: justify;
+	
+}
+
+#thirdDiv {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+#laboralDiv{
+	padding: 100px;
+}
+#academicaDiv{
+	padding: 100px;
+}
+
+#fourthDiv{
+	display: flex;
+	flex-direction: row;
+	justify-content: safe center;
+
+	;
+}
+
+#skillsDiv{
+	
+	padding: 75px;
+	
+}
+
+#hobbiesDiv{
+	padding: 75px;
+}
+
+#lastDiv {
+	display: flex;
+flex-direction: column;
+padding-top: 75px;
+border: 2px solid black;
+
+}
+
+#subtitleDivB{
+	text-align: center;
+
+}
+#lastParraf{
+	padding: 75px;
+	
+	align-items: center;
+	
+	text-align: justify-all;
+}
+
+h1{
+color: darkred;
+font-size: 80px;
+Display: fixed;
+}
+
+h2{
+color: black;
+font-size: 50px;
+display: fixed;
+}
+
+.subtitle{/*h3*/
+	color: darkblue;
+font-size: 35px;
+font-weight: bold;}
+
+.miniSub{/*h4*/
+	color: #3F7542;
+font-size: 25px;}
+
+.lista{
+	font-size: 20px;
+color: grey;}
+
+img{
+	height: 500px;
+width: 500px;
+
+}
+
+.estudios{
+	font-size: 20px;
+color: darkgray;
+}
+
+.lastParrafo{
+	font-size: 20px;
+color: black;
+}
+
+p{
+font-size: 35px;
+font-weight: bold;
+}
